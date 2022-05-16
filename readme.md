@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanca Kode</h1>
-<h3 align="center">We are here to help you learn coding. In addition, we also often discuss things that are often related to technology! by the way, we look forward to getting acquainted and collaborating with all of you. Pleased to meet you!</h3>
+<p align="justify">We are here to help you learn coding. In addition, we also often discuss things that are often related to technology! by the way, we look forward to getting acquainted and collaborating with all of you. Pleased to meet you!</p>
+
+<h2>About Me</h2>
 
 - 🌱 I’m currently learning **develop mobile apps (Dart, Kotlin, and Java) dan develop website apps (Javascript, PHP)**
 
